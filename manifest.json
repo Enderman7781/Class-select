@@ -1,6 +1,6 @@
 {
-  "name": "預選課程小插件",
-  "version": "1.3",
+  "name": "NCUE CPSP 預選課程小插件",
+  "version": "1.4",
   "manifest_version": 3,
   "action": {
     "default_title": "點擊啟動"
